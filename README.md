@@ -1,6 +1,9 @@
 # Splunk-n8n-Suricata-Automated-Malicious-URL-Enrichment
 ## Objective
-The goal is to create an n8n workflow that automatically receives a domain name from a Splunk alert, analyzes it using the VirusTotal API, and then triggers different actions — like sending emails, creating ServiceNow tickets, and posting Slack messages — based on the analysis results.
+The goal is to create an n8n workflow that automatically receives a domain name from a Splunk alert, analyzes it using the VirusTotal API, and then triggers different actions like sending emails, creating ServiceNow tickets, and posting Slack messages based on the analysis results.
+
+<img width="1480" height="1304" alt="Project" src="https://github.com/user-attachments/assets/017adbf6-6894-4982-af9c-ace565b3507c" />
+
 
 ---
 
